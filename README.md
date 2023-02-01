@@ -1,1 +1,1 @@
-#Смирнов Vladislav, Ислямова Elina, Федеров Andrew.
+Смирнов Vladislav, Ислямова Elina, Федеров Andrew.
