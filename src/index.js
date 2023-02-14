@@ -1,10 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-
-const root = ReactDOM.createRoot(document.getElementById('root'));
-
-root.render(
+ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <div>Hello, Sitnik World</div>
+    <>
+    <div>
+      <h1>IQ Test:</h1>
+        <input type="number"></input>
+          <button>Complete</button>
+    </div>
+    </>
   </React.StrictMode>
 );
