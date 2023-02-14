@@ -27,7 +27,7 @@ export const Application = () => {
                      {!hidden && <div>Sacha durak</div>}
                 </div>
 
-              
+              ///privet davai druzhit ya Dima
         </div>
 
 
